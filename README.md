@@ -1,1 +1,1 @@
-# SQL-Instagram-Project
+# Instagram Project
